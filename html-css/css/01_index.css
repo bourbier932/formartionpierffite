@@ -1,0 +1,23 @@
+body {
+    background: url(https://www.mensjournal.com/wp-content/uploads/mf/weed-marijuana.jpg?w=1200&h=1200&crop=1) no-repeat center /100% 100%;
+    /* background-repeat: no-repeat;  */
+font-family: 'Indie-Flower', cursive ;
+
+}
+h1,h2,h3,h4,h5,h6{font-family: 'josephine-sans', sans-serif;color: black;text-align: center
+}
+h2,h4,h6 {color: yellow
+}
+p{
+    font-size:28px;
+}
+.bloc{
+    background: red;
+    opacity: .5;
+    margin: 0 auto;
+    width: 40%;
+}
+{
+    background: red;
+    opacity:
+}

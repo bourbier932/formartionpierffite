@@ -1,0 +1,35 @@
+* {text-align: right;
+}
+
+body{
+background:#f5deb3;
+ }
+
+ header{
+     background-color: #900c3f;
+     color: #fff;
+     height: 100px;
+ }
+
+ nav{
+     background:   rgb(149,214,19);
+     height: 60px;
+ }
+
+ section{
+     background: rgba(46,46,177,0616);
+     height: 550px;
+ }
+
+ article{
+     background:plum;
+     height: 60px;
+ }
+
+ footer{
+     background: purple;
+     height: 75px;
+
+ }
+
+nav,footer

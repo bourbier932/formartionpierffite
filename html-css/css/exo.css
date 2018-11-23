@@ -1,0 +1,46 @@
+* {
+    text-align: right;
+}
+
+body {
+    background: #f5deb3;
+}
+
+header {
+    background-color: #900c3f;
+    color: #fff;
+    background: url(http://hws-sd-12.wewantweb.net/app/uploads/sites/227/2015/06/car-1-1200x300.jpg) no-repeat center;
+
+}
+
+section {
+    background: rgba(46, 46, 177, 0.616);
+    height: 550px;
+    padding: 0,0,0,06;
+
+}
+
+article {
+    background: plum;
+    height: 550px;
+    widows: 40%;
+    
+}
+
+footer {
+    background: yellow;
+    color: #fff;
+    height: 60px;
+    margin: 0;
+    padding: 16px 14px;
+    text-align: center;
+    
+
++}
+
+
+
+
+
+    
+

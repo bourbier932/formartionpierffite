@@ -1,0 +1,90 @@
+* {
+    text-align: right;
+}
+
+body {
+    background: #f5deb3;
+}
+
+header {
+    background-color: #900c3f;
+    color: #fff;
+    height: 300px;
+    background: url(http://hws-sd-12.wewantweb.net/app/uploads/sites/227/2015/06/car-1-1200x300.jpg) no-repeat center;
+}
+
+.slogan{
+    height: 60px;
+    background: #fff;
+    color: #a31b1c;
+    width: 55%;
+    text-align: center;
+    margin:0 0 0 20%;
+    padding-top: 6%;
+    
+}
+
+nav {
+    background: rgb(149, 214, 19);
+    height: 100px;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+li{
+    float: left;        
+    width: 20%;
+}
+li a{
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    padding: 14px 16px;
+}
+li a:hover{
+    background-color: red;
+}
+
+section {
+    background: rgba(46, 46, 177, 0.616);
+    height: 550px;
+}
+
+article {
+    background: plum;
+    height: 66px;
+    width: 50%;
+}
+
+footer {
+    background: purple;
+    height: 100px;
+
+}
+
+nav,footer{
+    color:#a93226;
+}
+.jaune{
+    background: rgba(225,240,18,);
+  
+}
+.toto{
+      width: 50%;
+}
+.center{
+    margin: 0 auto;
+}
+#noir{
+    background: rgba(0,0,0);
+    width: 50%;
+    float: right;
+}
