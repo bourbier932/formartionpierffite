@@ -1,0 +1,70 @@
+body{
+    background: #444;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    
+}
+
+header{
+    
+    height: 700px;
+    width: 100%;
+    font-size: 45px;
+    font-weight: 900;
+    text-align: center;
+    text-transform: capitalize;
+    background: url(https://medias.liberation.fr/photo/878025-prodlibe-societe-banlieue.jpg?modified_at=1463738066&width=960)no-repeat;
+    
+    
+
+}
+
+
+
+fieldset{
+    width: 20%;
+    color: #fff;
+    background: #369b;
+    font-size: 16px;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    text-transform: uppercase;
+
+}
+
+fieldset:hover{
+    box-shadow: 0 0 20px gold;
+}
+
+ul:focus{
+    border: 5px solid red;
+
+}
+
+
+
+
+legend{
+color: wheat ;
+font-size: 18px;
+font-weight: 900;
+text-transform: uppercase;
+background: #444;
+
+}
+
+footer{
+
+height: 45;
+width: 100%;
+color: #fff;
+background: wheat;
+font-size: 16px;
+font-weight: bold;
+text-transform: uppercase;
+margin: 700px ;
+
+
+}
