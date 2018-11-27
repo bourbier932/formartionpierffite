@@ -1,0 +1,50 @@
+body{
+background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+
+
+
+
+ }
+ 
+
+ 
+ .contenue{
+    background: linear-gradient(to left, #40a497, #6840a4);
+    width: 45em;
+    height: 45em;
+    margin: 0 auto;
+    border-radius: 50%;
+ 
+ }
+ 
+ .contenue2{
+    background: radial-gradient(circle at center, white, green);
+    width: 45em;
+    height: 45em;
+    margin: 0 auto;
+    border-radius: 50%;
+ }
+ 
+ .contenue3{
+    background: repeating-linear-gradient(to right, green, red, blue, green 200px);
+    width: 45em;
+    height: 45em;
+    margin: 0 auto;
+    border-radius: 50%;
+ }
+ 
+ /* pour un dégradé linaire les directions possible sont: to left, to right, to top, to bottom */
+ /* pour un dégradé circulaire les direction possible sont: circle at top, circle at center,
+ closet-corner ( vers le coin le plus proche),
+ close-sie (vers le coin le plus éloigné)
+ farthest-corner(vers le coin le plus éloigné)
+ varthest-side(vers le côté le plus éloigné) */
+ 
+ .contenue4{
+    background: repeating-radial-gradient(circle);
+    width: 45em;
+    height: 45em;
+    margin: 0 auto;
+    border-radius: 50%;
+ }
+ 

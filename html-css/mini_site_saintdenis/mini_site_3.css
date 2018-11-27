@@ -1,11 +1,19 @@
 body{
-
-
-
+background-color: mediumpurple;
+background-image: url(https://www.ouest-france.fr/sites/default/files/styles/image-640x360/public/2017/04/16/seine-saint-denis-manifestation-contre-un-meeting-de-marine-le-pen.jpg?itok=QrofTHXT)no-repate;
+text-align: center;
 
 
 }
 div{
-background: url(http://www.laurink.fr/images/plan%20quartier%20agrandi.jpg);
+margin-top: 100px;
+
 
 }
+
+
+
+
+
+
+
