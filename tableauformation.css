@@ -1,0 +1,41 @@
+{
+    font-family: fantasy;
+
+}
+body{
+width: 100%;
+margin: auto;
+
+
+}
+
+thead, tfoot{
+    background: #3636;
+    border: 4px solid #252;
+}
+tbody{
+
+    border: 20px solid #3636;
+}
+
+th{
+ 
+ width: 15%;
+ background: #3636;
+ padding: 5px;
+ border: 3px dotted rgba(29, 129, 29, 0.4);
+
+
+}
+
+td{
+padding: 30px;
+font-size: 70%;
+text-align: center;
+border: 1px dashed #3636;
+
+}
+
+td:first-child{
+text-align: left;
+background: #3636;
