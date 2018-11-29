@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0 auto;
+ }
+ header{
+    background: rgba(62, 61, 63);
+    color: grey;
+    height: 120px;
+    text-align: initial;
+ }
+ 
+ nav{
+    border: 1px solid black;
+    background: black;
+    color: #fff;
+    height: 50px;
+    width: 40%;
+    text-align: center;
+ 
+ }
+ ul{
+    list-style-type: none;
+ }
+.A{
+    font-size: 24px;
+    text-transform: uppercase;
+ }
+
+section{
+width: 960px;
+margin: 0 auto;
+
+}
+
+
+
+ .PZ1{
+    background: url(../../html-css/integration_01/img/960x360.gif);
+    height: 360px;
+    width: 960px;
+ }
+ 
+ .PZ{
+    background: url(../../html-css/integration_01/img/32x32.gif)no-repeat;
+    height: 240px;
+    width: 240px;
+    font-size: 11px;
+    float: left;
+    text-align: end;
+ }
+
+.B{
+    font-size: 18px;
+    text-transform: lowercase;
+    color: gold;
+
+}
+ 

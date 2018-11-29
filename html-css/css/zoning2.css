@@ -1,0 +1,55 @@
+body{
+    width: 90%;
+    margin: 10px auto;
+    font-family: cursive;
+ }
+ #contenu{
+    background: red;
+    border: 2px solid black;
+ }
+ header, footer{
+    height: 80px;
+    color: white;
+    text-align: center;
+    background: #8e3557;
+ }
+ nav{
+    height: 40;
+    color: white;
+    padding-left: 20px;
+    padding-top: 6px;
+    background: #4a1a2c;
+ }
+ .mom1, .mom2, .mom3, .mom4{
+    height: 250px;
+    width: 50%;
+    text-align: left;
+    border: 1px solid wheat;
+ }
+ .mom1{
+    background: #4a1a2c;
+ }
+ .mom2{
+    background: #787746;
+ }
+ .mom3{
+    background: #e6e2af;
+ }
+ .mom4{
+    margin-top: auto;
+    background: #add8e6;
+ }
+ .mom3, .mom4{
+    float: right;
+ }
+ section{
+    height: 500px;
+    text-align: center;
+    border:  20px solid #787746;
+    background: white;
+ }
+ p{
+    margin: 0;
+ }
+ 
+ 

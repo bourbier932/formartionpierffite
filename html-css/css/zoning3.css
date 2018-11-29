@@ -1,0 +1,160 @@
+body{
+    width: 90%;
+    margin: 10px auto;
+    font-family: cursive;
+ }
+ 
+ #contenu{
+    background: red;
+    border: 2px solid black;
+ }
+ 
+ header, footer{
+    height: 80px;
+    color: white;
+    text-align: center;
+    background: #8e3557;
+ }
+ 
+ nav{
+    height: 40px;
+    color: white;
+    padding-left: 20px;
+    padding-top: 6px;
+    background: #4a1a2c;
+ }
+ 
+ section{
+    height: 500px;
+    text-align: center;
+    border:  20px solid #fff;
+    background: white;
+ 
+ }
+ 
+ 
+ .A, .C{
+    float: left;
+    height: 50%;
+    width: 50%;
+ 
+ }
+ .B, .D{
+    float: right;
+    height: 50%;
+    width: 50%;
+ }
+ 
+ .A{
+    background: #4a1a2c;
+ }
+ .B{
+ 
+    background: #787746;
+ }
+ .C{
+    background: #e6e2af;
+ }
+ .D{
+    background: #add8e6;
+ }
+ 
+ .A1, .A2{
+    float: left;
+    height: 50%;
+    width: 50%;
+ }
+ .A3, .A4{
+    float: right;
+    height: 50%;
+    width: 50%;
+ }
+ 
+ .A1{
+    background: #4a1a2c;
+ }
+ .A2{
+ 
+    background: #787746;
+ }
+ .A3{
+    background: #e6e2af;
+ }
+ .A4{
+    background: #add8e6;
+ }
+ .B1, .B2{
+    float: left;
+    height: 50%;
+    width: 50%;
+ }
+ .B3, .B4{
+    float: right;
+    height: 50%;
+    width: 50%;
+ }
+ 
+ .B1{
+    background: #4a1a2c;
+ }
+ .B2{
+ 
+    background: #787746;
+ }
+ .B3{
+    background: #e6e2af;
+ }
+ .B4{
+    background: #add8e6;
+ }
+ .C1, .C2{
+    float: left;
+    height: 50%;
+    width: 50%;
+ } .C3, .C4{
+    float: right;
+    height: 50%;
+    width: 50%;
+ }
+ 
+ .C1{
+    background: #4a1a2c;
+ }
+ .C2{
+ 
+    background: #787746;
+ }
+ .C3{
+    background: #e6e2af;
+ }
+ .C3{
+    background: #add8e6;
+ }
+ 
+ .D1, .D2{
+    float: left;
+    height: 50%;
+    width: 50%;
+ }
+ .D3, .D4{
+    float: right;
+    height: 50%;
+    width: 50%;
+ }
+ 
+ .D1{
+    background: #4a1a2c;
+ }
+ .D2{
+ 
+    background: #787746;
+ }
+ .D3{
+    background: #e6e2af;
+ }
+ .D4{
+    background: #add8e6;
+ }
+ p{
+    margin: 0;
+ }
