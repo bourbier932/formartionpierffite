@@ -1,13 +1,14 @@
-*{
+*
     padding: 0;
     margin: 0 auto;
- }
- header{
-    background: rgba(62, 61, 63);
-    color: grey;
-    height: 120px;
-    text-align: initial;
- }
+ 
+}
+
+header {
+   height: 100px;
+   color: #B1B2B3;
+   background: #1d1d1d;
+   margin: 0 auto;
  
  nav{
     border: 1px solid black;
@@ -31,28 +32,103 @@ width: 960px;
 margin: 0 auto;
 
 }
+.AC{
+  width:240px;
+  float: left;
+  
+}
+}
+.articles{
+ margin-top: 30px;
+ margin-bottom: 30px;
 
-
-
- .PZ1{
-    background: url(../../html-css/integration_01/img/960x360.gif);
-    height: 360px;
-    width: 960px;
- }
- 
- .PZ{
-    background: url(../../html-css/integration_01/img/32x32.gif)no-repeat;
-    height: 240px;
-    width: 240px;
-    font-size: 11px;
-    float: left;
-    text-align: end;
- }
-
-.B{
-    font-size: 18px;
-    text-transform: lowercase;
-    color: gold;
 
 }
- 
+
+.titre {
+   float: left;
+   padding-top: 0.7%;
+}
+
+h1,
+h3 {
+   padding: 0 auto;
+   margin: 0 auto;
+   font-family: cursive;
+}
+
+h3 {
+   font-size: 12px;
+}
+
+.liens-header {
+   height: 50%;
+}
+
+ul {
+   list-style-type: none;
+   float: right;
+   margin: 0;
+   padding: 0;
+   padding-top: 2%;
+}
+
+li {
+   float: left;
+   width: 25%;
+}
+
+li a {
+   color: white;
+   text-align: center;
+   text-decoration: none;
+   padding: 16px 18px;
+   background: black;
+}
+
+li a:hover {
+   background: rgb(44, 39, 39);
+}
+
+.body {
+   width: 50%;
+   margin: auto;
+   margin-top: 10px;
+}
+
+.AC,
+.AC,
+.AC,
+.AC {
+   width: 231px;
+   height: 300px;
+   float: left;
+   margin-left: 4px;
+}
+
+hr {
+   width: 100%;
+}
+
+.IMG1,
+.IMG2,
+.IMG3 {
+   width: 28%;
+   height: 50%;
+   float: left;
+   margin-left: 40px;
+}
+
+a {
+   color: blue;
+   float: right;
+}
+
+#AC,
+#AC,
+#AC,
+#AC {
+   width: 20%
+}.
+
+
