@@ -1,0 +1,256 @@
+* {
+    font-weight: 210;
+   }
+   
+   .paris {
+    text-align: center;
+    color: brown;
+    padding-top: 50px;
+   }
+   
+   .titre {
+    letter-spacing: 4px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 33%;
+    position: absolute;
+    right: 34%;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+   }
+   
+   .info {
+    width: 33%;
+    position: absolute;
+    bottom: 76%;
+    right: 34%;
+    text-align: center;
+    font-style: italic;
+   }
+   
+   .merlu {
+    position: absolute;
+    right: 54%;
+    top: 24%;
+   }
+   
+   .pmerlu {
+    border-bottom: 1px solid black;
+    position: absolute;
+    bottom: 50%;
+    right: 30%;
+    width: 35%;
+    text-align: right;
+    font-size: 17px;
+    border-collapse: collapse;
+    font-style: italic;
+   }
+   
+   .pmerlu2 {
+    text-align: right;
+    position: absolute;
+    bottom: 38%;
+    right: 30%;
+    width: 35%;
+    text-transform: uppercase;
+   }
+   
+   .salle {
+    position: absolute;
+    top: 80%;
+    right: 28%;
+   }
+   
+   .psalle {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 30px;
+    position: absolute;
+    top: 90%;
+    left: 18.2%;
+    border-bottom: 1px solid black;
+    width: 25%;
+   }
+   
+   .psalle2 {
+    position: absolute;
+    top: 96%;
+    left: 18.2%;
+    font-style: italic;
+    width: 25%;
+   }
+   
+   .note {
+    color: white;
+    background: black;
+    position: absolute;
+    top: 109%;
+    left: 18.2%;
+    width: 9%;
+    text-transform: uppercase;
+   }
+   
+   .service {
+    position: absolute;
+    top: 133%;
+    left: 18.2%;
+   }
+   
+   .pservice {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 30px;
+    border-bottom: 1px solid black;
+    width: 25%;
+    position: absolute;
+    top: 150%;
+    right: 28%;
+   }
+   
+   .pservice2 {
+    font-style: italic;
+    width: 25%;
+    position: absolute;
+    top: 156%;
+    right: 28%;
+   }
+   
+   .note2 {
+    color: white;
+    background: black;
+    position: absolute;
+    top: 165%;
+    right: 44%;
+    width: 9%;
+    text-transform: uppercase;
+   }
+   
+   .dress {
+    position: absolute;
+    top: 186.2%;
+    right: 28.1%;
+   }
+   
+   .pdress {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 30px;
+    border-bottom: 1px solid black;
+    width: 25%;
+    position: absolute;
+    top: 198.2%;
+    left: 18.2%;
+   }
+   
+   .pdress2 {
+    font-style: italic;
+    width: 25%;
+    position: absolute;
+    top: 204.2%;
+    left: 18.2%;
+   }
+   
+   .note3 {
+    color: white;
+    background: black;
+    position: absolute;
+    top: 212.2%;
+    left: 18.2%;
+    width: 9%;
+    text-transform: uppercase;
+   }
+   
+   .gout {
+    position: absolute;
+    top: 239%;
+    left: 18.2%;
+   }
+   
+   .pgout {
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    font-size: 30px;
+    border-bottom: 1px solid black;
+    width: 25%;
+    position: absolute;
+    top: 251%;
+    right: 28.1%;
+   }
+   
+   .pgout2 {
+    font-style: italic;
+    width: 25%;
+    position: absolute;
+    top: 257%;
+    right: 28.1%;
+   }
+   
+   .note4 {
+    color: white;
+    background: black;
+    position: absolute;
+    top: 270%;
+    right: 44%;
+    width: 9%;
+    text-transform: uppercase;
+   }
+   
+   .bg {
+    opacity: 1;
+    position: absolute;
+    top: 302.5%;
+    right: 48%;
+    letter-spacing: 4px;
+    color: gray;
+   }
+   
+   .bg2 {
+    position: absolute;
+    top: 300%;
+    right: 48%;
+   }
+   
+   .bas {
+    letter-spacing: 4px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    width: 33%;
+    position: absolute;
+    top: 315%;
+    right: 34%;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+   }
+   
+   .adress {
+    letter-spacing: 4px;
+    position: absolute;
+    top: 320%;
+    right: 40%;
+    text-align: center;
+    text-transform: uppercase;
+   }
+   
+   .adress2 {
+    letter-spacing: 2px;
+    position: absolute;
+    top: 322%;
+    right: 48%;
+    text-align: center;
+    text-transform: uppercase;
+   }
+   
+   .adress3 {
+    position: absolute;
+    top: 324%;
+    right: 43%;
+    text-align: center;
+    font-style:italic;
+    font-size:18px;
+   }
+   section {
+   
+   }
+   

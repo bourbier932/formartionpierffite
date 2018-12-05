@@ -1,0 +1,28 @@
+.col-md-12{
+    text-align: center;
+    border: 1px solid black;
+    height: 150px;
+}
+.col-md{
+    text-align: center;
+    border: 1px solid black;
+    height: 50px;
+}
+.toto{
+    text-align: center;
+    border: 1px solid black;
+    height: 75px;
+}
+.col-md-4, .col-md-8{
+    text-align: center;
+    border: 1px solid black;
+    height: 225px;
+}
+
+.lulu{
+    text-align: center;
+    border: 1px solid black;
+    height: 50px;
+    position: absolute;
+    bottom: 0px;
+}
