@@ -1,4 +1,22 @@
 .col-sm-12{
+   
+   
     text-align: center;
-    margin-top: 20px;
+   
 }
+
+.container{
+    border: 1px solid #000;
+}
+
+.lead{
+    color: #ccc;
+    font-weight: bold;
+    margin-right: 200px;
+    padding: 30px 0 30px 0;
+}
+
+.toto{
+
+}
+
