@@ -29,11 +29,17 @@ section{
     height: 500px;
     text-align: center;
     border: 20px solid #787746;
-    background-color: #e6e2af
+    background-color: #e6e2af;
+    background-image: url("https://www.h24info.ma/wp-content/uploads/2018/01/liasse-euro.png");
 }
 
+
 p{
+    margin-left: 0;
+    margin-right: 0;
     margin: 0;
+    
+    
 }
 
 
