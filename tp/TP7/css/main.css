@@ -1,0 +1,85 @@
+/*
+    Fonts
+    Intégration manuel d'une police d'écriture(on charge les depuis le dossier fonts)
+*/
+@font-face {
+  font-family: 'raleway-regular';
+  src: url('../fonts/raleway-regular.eot');
+  src: url('../fonts/raleway-regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/raleway-regular.woff') format('woff'),
+    url('../fonts/raleway-regular.ttf') format('truetype'),
+    url('../fonts/raleway-regular.svg#ralewayregular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'raleway-bold';
+  src: url('../fonts/raleway-bold.eot');
+  src: url('../fonts/raleway-bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/raleway-bold.woff') format('woff'),
+    url('../fonts/raleway-bold.ttf') format('truetype'),
+    url('../fonts/raleway-bold.svg#ralewaybold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'raleway-semibold';
+  src: url('../fonts/raleway-semibold.eot');
+  src: url('../fonts/raleway-semibold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/raleway-semibold.woff') format('woff'),
+    url('../fonts/raleway-semibold.ttf') format('truetype'),
+    url('../fonts/raleway-semibold.svg#ralewaysemibold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Style global*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.left, .right, .right2 {
+  margin-left: 60px;
+  float: left;
+}
+
+.logo {
+  margin-top: 80px;
+}
+
+.nav {
+  margin-top: 80px;
+}
+
+.nav .nav2 li {
+  list-style-type: none;
+  margin-bottom: 15px;
+}
+
+.nav .nav2 li a {
+  text-decoration: none;
+  color: gray;
+}
+
+.amirouche {
+  margin-top: 600px;
+}
+
+.copy {
+  margin-top: 20px;
+}
+
+.right img {
+  float: left;
+  width: 530px;
+  height: 530px;
+}
+
+.right2 img {
+  float: left;
+  width: 530px;
+  height: 530px;
+}
