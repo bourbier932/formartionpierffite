@@ -1,0 +1,59 @@
+body{
+    width: 100%;
+
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'diplomata Sc cursive'
+}
+
+
+p{
+    font-size: 14px;
+    font-family: 'roboto slab', serif;
+}
+
+section{
+    padding: 0;
+}
+
+.navigation{
+    visibility: visible;
+    background: rgba(0, 0, 0, .5);
+}
+
+.collapse{
+    height: auto;
+    text-transform: uppercase;
+}
+
+.menu{
+    z-index: 999;
+    width: 100%;
+}
+
+.menu li{
+    margin-right: 5%;
+}
+
+.menu li a{
+    color: #fff;
+}
+
+.billeterie{
+    border: 0;
+    padding: 0 26px;
+    height: 40px;
+    min-width: 160px;
+    line-height: 36px;
+    font-size: 14px;
+    font-weight: 500px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    border-radius: 0;
+    background: #1c5f81;
+}
+.billeterie:hover{
+    color: #1c5f81;
+    background: #fff;n!
+}s le HTML et les CSS suivants 
+
